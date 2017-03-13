@@ -1,0 +1,14 @@
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\Medmasters.LINQ.TreasureChest.Properties.Resources.resources
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\SampleSupport.SampleForm.resources
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\Medmasters.LINQ.TreasureChest.csproj.GenerateResource.Cache
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\bin\Release\Medmasters.LINQ.TreasureChest.exe
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\bin\Release\Medmasters.LINQ.TreasureChest.pdb
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\Medmasters.LINQ.TreasureChest.exe
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\Medmasters.LINQ.TreasureChest.pdb
+C:\MedMas\Medmasters.LINQ.TreasureChest\obj\Release\Medmasters.LINQ.TreasureChest.exe
+C:\MedMas\Medmasters.LINQ.TreasureChest\obj\Release\Medmasters.LINQ.TreasureChest.pdb
+C:\MedMas\Medmasters.LINQ.TreasureChest\bin\Release\Medmasters.LINQ.TreasureChest.exe
+C:\MedMas\Medmasters.LINQ.TreasureChest\bin\Release\Medmasters.LINQ.TreasureChest.pdb
+C:\MedMas\Medmasters.LINQ.TreasureChest\obj\Release\Medmasters.LINQ.TreasureChest.Properties.Resources.resources
+C:\MedMas\Medmasters.LINQ.TreasureChest\obj\Release\SampleSupport.SampleForm.resources
+C:\MedMas\Medmasters.LINQ.TreasureChest\obj\Release\Medmasters.LINQ.TreasureChest.csproj.GenerateResource.Cache

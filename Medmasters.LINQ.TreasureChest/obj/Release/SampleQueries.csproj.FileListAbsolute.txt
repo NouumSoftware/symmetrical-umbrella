@@ -1,0 +1,4 @@
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\SampleQueries.csprojResolveAssemblyReference.cache
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\Medmasters.LINQ.TreasureChest.Properties.Resources.resources
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\SampleSupport.SampleForm.resources
+C:\Users\srudbach\Documents\Visual Studio 2015\Samples\LINQ - Sample Querie1\obj\Release\SampleQueries.csproj.GenerateResource.Cache
